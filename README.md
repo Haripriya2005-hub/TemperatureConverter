@@ -1,18 +1,19 @@
-## Temperature Converter
+# Temperature Converter
 
-A simple Java program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+This is a basic Java console application that converts temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.
 
-## Input
-- Temperature value (e.g., 25)
-- Original unit (C/F/K)
+## 🔧 Features
 
-## Output
-- Converted values in other two units
+- Input a temperature value and its unit (C, F, or K)
+- Converts the temperature to the other two units
+- Displays the results clearly in the console
 
-## Example
-Enter temperature: 25
-Enter unit: C
-25°C = 77.0°F and 298.15K
+## 🖥️ Example
 
+Enter the temperature value: 25
+Enter the unit (C/F/K): C
+
+25.0°C = 77.0°F
+25.0°C = 298.15K
 
 
